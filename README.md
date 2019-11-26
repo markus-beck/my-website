@@ -12,3 +12,7 @@ This file is just a readme file
 
 The purpose of this file is to provide examples
 on how to use Git and HitHub together.
+
+##Getting Started
+
+To get started with this projrct, just 'clone' this repository.
